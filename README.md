@@ -1,5 +1,5 @@
 # Noise2Score3D: Unsupervised Tweedie's Approach for Point Cloud Denoising
-
+# ICCV 2025 has accepted this paper!
 ## Installation
 The code has been tested on and NVIDIA RTX 3080ti GPU with the following settings:
 
