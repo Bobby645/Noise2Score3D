@@ -24,8 +24,11 @@ Note that the 10k datasets in it is the one we got by downsampling by 50k
 Our test dataset [ModelNet-40 Simulated LiDAR noise] is the same as ``Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning`` by Pedro Hermosilla, Tobias Ritschel, Timo Ropinski. Please check their GitHub repo [here](https://github.com/phermosilla/TotalDenoising).
 
 ## Pretrained models
-Pre-training weights will be released upon receipt of the paper.............................
-We can't put any other links..............
+
+Pretrained weights are available on Hugging Face:
+
+- [Noise2Score3D model repository](https://huggingface.co/bobby645/Noise2Score3D/tree/main)
+
 ## Inference only
 
 ```
